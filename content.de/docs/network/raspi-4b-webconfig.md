@@ -16,7 +16,7 @@ Mehr als diese Anwendungfälle sind auch in dieser Anleitung nicht aufgeführt, 
 
 Der Raspi hat die IP-Addresse <http://192.168.1.1>. Beim Aufruf dieser Addresse sollte dann dieses Fenster auftauchen.
 
-![OpenWRT Login Bildschirm. Das Hauptfenster zeigt ein Login-Formular mit dem Titel OpenWRT und zwei Eingabefeldern für Benutzername und Passwort. Der Benutzername ist root und das Passwortfeld ist leer. Rechts unten befindet sich ein grüner Login-Knopf. Die Umgebung ist schlicht und funktional, ohne ablenkende Elemente. Die Stimmung ist neutral und sachlich. Text im Bild: OpenWRT, Benutzername, Passwort, root, Login.](/static/openwrt/openwrt-login.png)
+![OpenWRT Login Bildschirm. Das Hauptfenster zeigt ein Login-Formular mit dem Titel OpenWRT und zwei Eingabefeldern für Benutzername und Passwort. Der Benutzername ist root und das Passwortfeld ist leer. Rechts unten befindet sich ein grüner Login-Knopf. Die Umgebung ist schlicht und funktional, ohne ablenkende Elemente. Die Stimmung ist neutral und sachlich. Text im Bild: OpenWRT, Benutzername, Passwort, root, Login.](/openwrt/openwrt-login.png)
 
 Die login-Daten sind sehr einfach. Der Nutzername bleibt so wie er da schon ist: `root`. Das Passwortfeld wird leer gelassen. Durch das Bestätigen mit der Enter-Taste oder dem grünen Knopf kann sich eingeloggt werden.
 
