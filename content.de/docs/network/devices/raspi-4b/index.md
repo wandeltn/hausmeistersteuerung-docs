@@ -1,3 +1,7 @@
+---
+title: "Raspberry Pi 4b"
+---
+
 # Raspberry Pi 4b
 
 Auf diesem Gerät ist OpenWRT installiert. Dies ist der Router für die Hausmeistersteuerung ist zuständig für die Vergabe der IP-Adressen. Hier kommt auch das Internet aus NSW-Stage her.
@@ -15,3 +19,7 @@ Die Auswirkungen des Ausfalls dieses Geräts sind vielfältig und manchmal schwe
 - Kein Internet im NSW-Stage WLAN
 
 Das am häufigsten Auftretende Symptom ist das Fehlschlagen der Verbindung mit dem WLAN. Häufig gibt das Tablet dann die Meldung, dass die Konfiguration der IP-Adresse fehlgeschlagen sei.
+
+## Updates
+
+Bei diesem Raspberry müssen keine regelmäßigen Updates durchgeführt werden. Generell muss dieser eigentlich in keinem Fall angefasst werden.
