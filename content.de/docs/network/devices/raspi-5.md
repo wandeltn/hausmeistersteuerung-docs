@@ -28,7 +28,7 @@ Meist liegt dies an einem lockeren Stecker. Prüfe dazu also folgende Dinge:
 
 ## Was sollte am Pi angeschlossen sein?
 
-Der Raspberry Pi ist per POE an Strom angeschlossen, das heißt, er bekommt seinen Strom über den Netzwerkanschluss. Wundere dich also nicht, wenn kein seperates Netzteil angeschlossen sein sollte. Außer diesem Netzwerkanschluss wird kein weiterer Anschluss des Pis verwendet. Bitte achte jedoch darauf, dass das LAN Kabel auch in einem **POE fähigen Anschluss** steckt.
+Der Raspberry Pi ist per POE an Strom angeschlossen, das heißt, er bekommt seinen Strom über den Netzwerkanschluss. Wundere dich also nicht, wenn kein seperates Netzteil angeschlossen sein sollte. Außer diesem Netzwerkanschluss wird kein weiterer Anschluss des Pis verwendet. Bitte achte jedoch darauf, dass das LAN Kabel auch in einem **POE fähigen Anschluss** im Switch steckt.
 
 ## Systemupdates des Raspberry Pis
 
