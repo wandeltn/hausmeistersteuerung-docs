@@ -2,7 +2,7 @@
 title: Fehlerbehebung
 description: 
 published: true
-date: 2026-01-06T10:06:00.903Z
+date: 2026-01-06T10:27:37.231Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-02T18:58:04.654Z
@@ -38,25 +38,28 @@ Wenn einer der oben genannten Sachen zutrifft, klicke bitte [hier](/de/error/tab
 
 ### Hardware
 
-- Ich habe etwas an der Hardware gemacht 
-- Hilfe, ich habe die Kontakte kurzgeschlossen!
-- Ich habe ein Kabel gezogen, jetzt geht nichts mehr
+- [Ich habe etwas an der Hardware gemacht](/error/hardware)
+- [Hilfe, ich habe die Kontakte kurzgeschlossen!](/error/short)
+- [Ich habe ein Kabel gezogen, jetzt geht nichts mehr](/error/wiring)
+{.links-list}
 
 Wenn einer der oben genannten Sachen zutrifft, klicke bitte [hier](/de/error/hardware)
 
 ### Licht
 
-- Nicht alle Lampen gehen an
-- Licht geht gar nicht an
-- Lampen machen nicht was sie sollen
+- [Nicht alle Lampen gehen an](/error/light/some-off)
+- [Licht geht gar nicht an](/error/light/off)
+- [Lampen machen nicht was sie sollen](/error/light/wrong)
+{.links-list}
 
 Wenn einer der oben genannten Sachen zutrifft, klicke bitte [hier](/de/error/light)
 
 ### Weboberflächen
 
-- Hausmeistersteuerung (Home Assistant) ist nicht erreichbar
-- Einloggen in Home Assistant geht nicht
-- Authentik lädt nicht
+- [Hausmeistersteuerung (Home Assistant) ist nicht erreichba](/error/hass/unreachable)
+- [Einloggen in Home Assistant geht nicht](/error/hass/login)
+- [Authentik lädt nicht](/error/auth/unreachable)
+{.links-list}
 
 Wenn einer der oben genannten Sachen zutrifft, klicke bitte [hier](/de/error/web)
 
